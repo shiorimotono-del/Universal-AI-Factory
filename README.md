@@ -1,3 +1,4 @@
+![System Flowchart](ChatGPT Image 2025年8月13日 19_28_44.png)
 Universal AI-Driven Manufacturing Facility
 Version: 1.0
 License: MIT
