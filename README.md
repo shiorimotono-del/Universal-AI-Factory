@@ -1,4 +1,4 @@
-![System Flowchart](ChatGPT Image 2025年8月13日 19_28_44.png)
+![System Flowchart](https://github.com/shiorimotono-del/Universal-AI-Factory/blob/a9b76084670f4fb970970f834d5d3b6c726e617f/ChatGPT%20Image%202025%E5%B9%B48%E6%9C%8813%E6%97%A5%2019_28_44.png?raw=true)
 Universal AI-Driven Manufacturing Facility
 Version: 1.0
 License: MIT
