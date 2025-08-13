@@ -77,9 +77,6 @@ Approval System	Human approval gate
 Production Controller	Controls mass production and monitors progress
 
 4. Data Flow Diagram (Overview)
-csharp
-コピーする
-編集する
 [User Input] 
     ↓
 [Reception LLM] 
